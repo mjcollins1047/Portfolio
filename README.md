@@ -1,6 +1,4 @@
-# Portfolio
-Data Science Portfolio
-
+# Data Science Journey
 Hello my name is Matthew Collins. I am a recent graduate of Bellevue University's Master of Data Science program. While a graduate of the program, my passion for the last 25 years have been as a quality professional in the medical device and pharmaceutical industries. I became interested in data science because of how internal and external data has become a foundational element when dealing with regulatory authorities around the world. Data science has become essential when detecting, reacting, and using signals to prevent public health issues.
 
 I find it essential to stay with the evolution of insight and analysis. Customer sentiment, and critical information is rapid, evolving and traced to many disparate locations. Whether it is Facebook, eBay, amazon, twitter, Instagram or other, people are being heard. Being able to bring pull these disparate sources of information together helps ensure we provide safe and effective products. Using the voice of the patient to improve outcomes aligns with my personal goal of doing well by doing good. This notion can begins through the act of listening.
