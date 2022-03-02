@@ -1,0 +1,1 @@
+For the longest time, humans have hoped to develop machines with human intelligence. Basically, creating machines that can act and think like us. Computer Vision or CV is one such technology where humans have tried to develop techniques for computers to identify digital photographs and videos the way we do.  Let's write a program that does what the human eye can do.
