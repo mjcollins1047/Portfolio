@@ -1,0 +1,1 @@
+Who does not love America's past time?  The objective of this project is to maximize profit and attendance by creating attractive offers on lower volume days.  In a stadium where fans are forking out dollars, creating a sellout everynight can help the bottom line of the team, and the surrounding economy.
