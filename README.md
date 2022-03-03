@@ -5,7 +5,7 @@ I find it essential to stay with the evolution of insight and analysis. Customer
 
 The Food and Drug Administration continues to evolve their data science program. Responsible manufactures must stay ahead of the FDA post market program. We never want the FDA to trigger a problem. Our internal listening systems must be sensitive, and predictive so we can act responsibly. By the time the FDA is alerted to a signal it may be too late. Part of doing well by doing good, means assuming the responsibility and not relying on external entities.
 
-# Portfolio of Success
+# Portfolio of Success (please explore my work)
 - Attracting_Fans_Dodger_Games (market basket analysis)
 - COVID_dashboard_changing_our_world (truth telling with visuals)
 - Calculation_Probability_Model_Ensemble (the majority vote wins the day))
