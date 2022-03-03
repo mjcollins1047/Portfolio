@@ -8,7 +8,7 @@ The Food and Drug Administration continues to evolve their data science program.
 # Portfolio of Success
 - Attracting_Fans_Dodger_Games (market basket analysis)
 - COVID_dashboard_changing_our_world (truth telling with visuals)
-- Calculation_Probability_Model_Ensemble ()
+- Calculation_Probability_Model_Ensemble (the majority vote wins the day))
 - ComputerVision_PatternRecognition (computer sees better than the human)
 - Hotel_Recommendation_Predictive_Model (helping find the right place at the right time)
 - NLP_Financial_Mrk_Max_Profit (Natural Language Processing to help digest financial news)
